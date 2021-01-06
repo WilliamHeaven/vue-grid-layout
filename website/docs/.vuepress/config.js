@@ -47,7 +47,8 @@ module.exports = {
 		nav: [
 			{text: 'Home', link: '/'},
 			{text: 'Guide', link: '/guide/'},
-			{text: 'Changelog', link: '/changelog/'}
+			{text: 'Changelog', link: '/changelog/'},
+			{text: '简体中文', link: '/changelog/'}
 		],
 		searchPlaceholder: 'Search...',
 		smoothScroll: true,
